@@ -77,6 +77,8 @@ public class Test {
 		numeros.add(numero6);
 		magazine.setNumeros(numeros);
 		
+		// Supprimer un numero
+		magazine.sprNumero(numero6);
 	}
 
 }
